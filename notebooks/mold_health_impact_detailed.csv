@@ -1,0 +1,4 @@
+Housing Condition,Respiratory Issues (%),Mental Health Issues (%),"General Health ""Not Good"" (%)",Estimated Life Expectancy Impact (Years),Children Asthma Risk (%),Annual Healthcare Visits
+No Damp/Mold,10,15,20,0.0,8,2.5
+Minor Damp/Mold,25,28,35,-1.5,20,4.5
+Severe Damp/Mold,45,42,55,-2.5,35,7.8
